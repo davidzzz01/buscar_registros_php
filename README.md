@@ -7,5 +7,7 @@
 
 
 
-![image](https://github.com/davidzzz01/buscar_registros_php/assets/169477412/617047d8-99d9-4196-891e-2aca6b9c508a)
+
+![image](https://github.com/davidzzz01/buscar_registros_php/assets/169477412/2e845041-77f5-4371-aa8a-b764b36a9003)
+
 
